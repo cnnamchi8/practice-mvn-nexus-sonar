@@ -12,10 +12,6 @@ public class DemoApplication {
 		string name = "caroline";
 
 		system.out.pritln(name);
-
-		Integer age = "20";
-
-		system.out.pritln(age + 5);
 	}
 
 }
